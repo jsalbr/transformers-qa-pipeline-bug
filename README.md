@@ -1,4 +1,6 @@
-# transformers-qa-pipeline-bug
+# Transformers QA Bug Report
+
+https://github.com/huggingface/transformers/issues/14311
 
 Example:
 
